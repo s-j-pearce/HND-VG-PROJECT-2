@@ -18,3 +18,6 @@ when playing, the player will be show a random number between 1 and 13, they wil
 
 ## Timeline of progress:
 ![project 2 time managment](https://user-images.githubusercontent.com/31927590/32722778-e82de18a-c862-11e7-9b85-9454fa847903.PNG)
+
+## Burndown chart:
+![project-2-burndown-chart](https://user-images.githubusercontent.com/31927590/32723654-319714ce-c866-11e7-80b9-e2cf9507ff6e.PNG)
