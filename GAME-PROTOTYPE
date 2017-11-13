@@ -1,0 +1,55 @@
+#include <stdio.h> //These inport the libraries
+#include <stdlib.h>
+#include <time.h>
+#include <iostream>
+using namespace std;
+
+int Pickcard()
+{
+ 
+  int r;
+  r=rand()%14; //generates a number between 0 and 13
+  
+return r;
+}
+
+int Guess() // sets variable for guess
+{
+  int guess;
+  
+  cin >> guess;
+  
+return guess;
+}
+
+main(){
+  
+  srand(time(NULL)); //required for "randomness"
+  
+  int pickcard1 = Pickcard(); // Randomly generates the first number
+  
+  cout << pickcard1 << "\n"; // Prints the generated number
+  
+  cout << "Pick 1 for Higher or 2 for Lower: " "\n"; // prints "higher or lower"
+  
+  int finalguess = Guess();
+  
+  int pickcard2 = Pickcard(); // Prints second number(only for debugging code)
+  
+  if ( finalguess == 1 ) {
+  cout << "you picked higher" "\n";
+  }
+  else {
+  cout << "you picked lower" "\n";
+  }
+  
+  cout << pickcard2 ;
+  
+  if (pickcard2 > pickcard1) {
+    cout << "...The card is higher" "\n";
+  }
+  else {
+    cout << "...The card was lower" "\n";
+  }
+  
+}
