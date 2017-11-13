@@ -6,11 +6,11 @@ when playing, the player will be show a random number between 1 and 13, they wil
 
 ## User Stories:
 
-* As a user I would like the game to be easy to play
-* As a user I would like to be rewarded when I guess correctly
-* As a user I should be able to input my choice
-* As a user I would like to know how much money I made before the game ends
-* As a user I would like the game to end when I lose
+1. As a user I would like the game to be easy to play
+2. As a user I would like to be rewarded when I guess correctly
+3. As a user I should be able to input my choice
+4. As a user I would like to know how much money I made before the game ends
+5. As a user I would like the game to end when I lose
 
 ## Flow Chart:
 ![project-2-flow-chart](https://user-images.githubusercontent.com/31927590/32720008-2bdd9a78-c85a-11e7-96b3-f0a77c2df878.jpg)
