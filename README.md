@@ -22,3 +22,14 @@ when playing, the player will be show a random number between 1 and 13, they wil
 
 ## Burndown chart:
 ![project-2-burndown-chart](https://user-images.githubusercontent.com/31927590/32723654-319714ce-c866-11e7-80b9-e2cf9507ff6e.PNG)
+# Design Documentation:
+## Process of Implementation
+We started the project by making the program select a random number between 1-13. Once we were able to get the system to select a random number we would then be able to set that to the first card. Once we had assigned the random number to the first card, we would then assign a random number to a second card, this would be the card that the player would need to guess for. Once the second card was shown we needed to make it so the player would recieve a reward for getting it right we did this by increasing the players cash each time they got the answer right, then when they finally get the answer wrong they will be shown their balance.
+## IDE used and Features
+The IDE (Integrated Development Environment) that was used was Repl.it. It allows the user to test the code as well as give basic debugging features. It also gives the coder a visual representation of their code to the right. this helps the user to quickly see changes and problems with the code.
+## Debugging Process
+With 'repl.it' our debugging improved as we were able to see a live preview as well as get valid debugging messages to tell us where we made mistakes.
+## Coding Standards
+During the coding process, I made sure to constantly indent my code often so that I was able to identify the breaks in commands or even functions. it also means you don’t have to press space a lot to get the same affect.
+## Evaluation
+Overall I feel that this being my second project it went very well. I felt that i was able to identify problems with my code and identify steps that i needed to take to finalize the code.
