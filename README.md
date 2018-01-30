@@ -32,4 +32,4 @@ With 'repl.it' our debugging improved as we were able to see a live preview as w
 ## Coding Standards
 During the coding process, I made sure to constantly indent my code often so that I was able to identify the breaks in commands or even functions. it also means you don’t have to press space a lot to get the same affect.
 ## Evaluation
-Overall I feel that this being my second project it went very well. I felt that i was able to identify problems with my code and identify steps that i needed to take to finalize the code.
+Overall I feel that this being my second project it went very well. I felt that i was able to identify problems with my code and identify steps that i needed to take to finalize the code. Overall i feel that i was able to develop my skills whilst building this application. The Source code itself i feel is good, compared to my first project i added some simple comments to help me remember some parts of the code that i still did not fully understand. 
