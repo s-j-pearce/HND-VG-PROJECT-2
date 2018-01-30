@@ -27,6 +27,8 @@ when playing, the player will be show a random number between 1 and 13, they wil
 We started the project by making the program select a random number between 1-13. Once we were able to get the system to select a random number we would then be able to set that to the first card. Once we had assigned the random number to the first card, we would then assign a random number to a second card, this would be the card that the player would need to guess for. Once the second card was shown we needed to make it so the player would recieve a reward for getting it right we did this by increasing the players cash each time they got the answer right, then when they finally get the answer wrong they will be shown their balance.
 ## IDE used and Features
 The IDE (Integrated Development Environment) that was used was Repl.it. It allows the user to test the code as well as give basic debugging features. It also gives the coder a visual representation of their code to the right. this helps the user to quickly see changes and problems with the code.
+#### Here is a screenshot of my code within the IDE
+![project_2](https://user-images.githubusercontent.com/31927590/35566064-f46c3252-05b7-11e8-9b37-28b2fc95d985.png)
 ## Debugging Process
 With 'repl.it' our debugging improved as we were able to see a live preview as well as get valid debugging messages to tell us where we made mistakes.
 ## Coding Standards
